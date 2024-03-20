@@ -1,0 +1,86 @@
+C:\Users\Emil\Desktop\lmitp\lmitp\bin\Debug\lmitp.exe.config
+C:\Users\Emil\Desktop\lmitp\lmitp\bin\Debug\lmitp.exe
+C:\Users\Emil\Desktop\lmitp\lmitp\bin\Debug\lmitp.pdb
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.csprojAssemblyReference.cache
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.dashboardform.resources
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.employeeform.resources
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.exe
+C:\Users\Emil\Desktop\lmitp\lmitp\obj\Debug\lmitp.pdb
+D:\VISUAL STUDIO UI\lmitp\lmitp\bin\Debug\lmitp.exe.config
+D:\VISUAL STUDIO UI\lmitp\lmitp\bin\Debug\lmitp.exe
+D:\VISUAL STUDIO UI\lmitp\lmitp\bin\Debug\lmitp.pdb
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.csproj.AssemblyReference.cache
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.dashboardform.resources
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.employeeform.resources
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.exe
+D:\VISUAL STUDIO UI\lmitp\lmitp\obj\Debug\lmitp.pdb
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.csproj.AssemblyReference.cache
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.exe
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.pdb
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\bin\Debug\lmitp.exe.config
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\bin\Debug\lmitp.exe
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\bin\Debug\lmitp.pdb
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.Form2.resources
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.Form3.resources
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+C:\Users\Student_PC 2\Desktop\lmitp\lmitp\obj\Debug\lmitp.addForm.resources
+D:\OOP\lmitp\lmitp\bin\Debug\lmitp.exe.config
+D:\OOP\lmitp\lmitp\bin\Debug\lmitp.exe
+D:\OOP\lmitp\lmitp\bin\Debug\lmitp.pdb
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.AssemblyReference.cache
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.addForm.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form2.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form3.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.exe
+D:\OOP\lmitp\lmitp\obj\Debug\lmitp.pdb
+E:\OOP\lmitp\lmitp\bin\Debug\lmitp.exe.config
+E:\OOP\lmitp\lmitp\bin\Debug\lmitp.exe
+E:\OOP\lmitp\lmitp\bin\Debug\lmitp.pdb
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.AssemblyReference.cache
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.addForm.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.Components.UserControl1.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.EditForm.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form2.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.Form3.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.exe
+E:\OOP\lmitp\lmitp\obj\Debug\lmitp.pdb
+E:\lmitp\lmitp\bin\Debug\lmitp.exe.config
+E:\lmitp\lmitp\bin\Debug\lmitp.exe
+E:\lmitp\lmitp\bin\Debug\lmitp.pdb
+E:\lmitp\lmitp\obj\Debug\lmitp.csproj.AssemblyReference.cache
+E:\lmitp\lmitp\obj\Debug\lmitp.addForm.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.EditForm.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.Form1.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.Form2.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.Form3.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.Properties.Resources.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.reportsform.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.Components.UserControl1.resources
+E:\lmitp\lmitp\obj\Debug\lmitp.csproj.GenerateResource.cache
+E:\lmitp\lmitp\obj\Debug\lmitp.csproj.CoreCompileInputs.cache
+E:\lmitp\lmitp\obj\Debug\lmitp.exe
+E:\lmitp\lmitp\obj\Debug\lmitp.pdb
